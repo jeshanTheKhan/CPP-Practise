@@ -1,6 +1,8 @@
 
 # C++ Language Practice
 
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191004160106/How-to-Prepare-for-Competitive-Programming.png" height="auto" width="3000px">
+
 🚀 Welcome to the C++ Language Practice repository! 🚀
 
 This repository is dedicated to honing your C++ programming skills through a collection of exercises and projects. Whether you're a beginner looking to strengthen your fundamentals or an experienced developer aiming to brush up on C++, you'll find a variety of challenges here to enhance your proficiency.
